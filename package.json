@@ -1,0 +1,34 @@
+{
+  "name": "tiny-use-media-esm",
+  "description": "react hook for getting breakpoints state in runtime (ESM module)",
+  "version": "1.0.0",
+  "browser": "./index.js",
+  "author": {
+    "name": "Valeriy Komlev",
+    "email": "komlev88@gmail.com",
+    "url": "https://komlev.me/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/komlev/tiny-use-media-esm.git"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "media",
+    "matchMedia",
+    "breakpoint",
+    "breakpoints",
+    "useMedia"
+  ],
+  "license": "MIT",
+  "scripts": {
+    "publish": "clean-publish"
+  },
+  "devDependencies": {
+    "clean-publish": "^4.0.0"
+  },
+  "peerDependencies": {
+    "react": ">=16.8"
+  }
+}
