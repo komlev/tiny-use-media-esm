@@ -3,6 +3,7 @@
   "description": "react hook for getting breakpoints state in runtime (ESM module)",
   "version": "1.0.0",
   "browser": "./index.js",
+  "type": "module",
   "author": {
     "name": "Valeriy Komlev",
     "email": "komlev88@gmail.com",
