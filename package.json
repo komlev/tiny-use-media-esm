@@ -1,7 +1,7 @@
 {
   "name": "tiny-use-media-esm",
   "description": "react hook for getting breakpoints state in runtime (ESM module)",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "browser": "./index.js",
   "type": "module",
   "author": {
